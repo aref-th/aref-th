@@ -53,17 +53,21 @@ Alongside engineering and research, I am the **Founder & Lead Instructor of CS50
 
 ## Selected Experience
 
-**Research Assistant — Medical Image Analysis, University of Manitoba**  
-Developing deep learning and survival-analysis pipelines for early hip-fracture prediction using medical imaging and clinical data.
+**Research Assistant — Medical Image Analysis, University of Manitoba**
+Develop and optimize deep learning pipelines for early hip-fracture prediction using medical imaging and clinical data. Build CNN/CapsNet survival models and evaluate performance using C-index, Kaplan-Meier stratification, and comparative model tracking.
 
-**Project Manager — AI-Driven IVF Treatment Optimization, Tarbiat Modares University**  
-Leading a medical-AI research project for predicting IVF outcomes from clinical records, patient history, and embryo-development data.
+**Co-Founder & Lead Teacher — AI/CS Education, CS50x Tehran**
+Lead Harvard-aligned computer science and AI education programs, teaching and mentoring **40,000+ learners** in Python, algorithms, AI foundations, and practical software engineering. Design modern, project-based learning experiences that integrate AI-assisted teaching methods, learner analytics, personalized support, and hands-on engineering practice.
 
-**Co-Founder & Lead Instructor — CS50x Tehran / CS50x Rasht**  
-Leading Harvard-aligned computer science and AI education programs with a focus on Python, algorithms, AI foundations, and practical engineering.
+**AI Engineer — Entekhab Electronic**
+Develop AI and Python-based workflows while supporting internal automation, data analysis, and applied machine learning initiatives. Work with HR and technical teams to evaluate AI talent, mentor junior engineers, and align ML projects with business needs.
 
-**Senior Lecturer — Artificial Intelligence School, Filoger**  
-Designed and delivered practical AI curricula covering machine learning, deep learning, computer vision, NLP, data analysis, and project-based AI implementation.
+**Project Manager — AI-Driven IVF Treatment Optimization, Tarbiat Modares University**
+Lead a medical-AI research project for predicting IVF outcomes from clinical records, patient history, and embryo-development data.
+
+**Senior Lecturer — Artificial Intelligence School, Filoger**
+Design and deliver practical AI curricula covering machine learning, deep learning, computer vision, NLP, data analysis, and project-based AI implementation.
+
 
 ---
 
